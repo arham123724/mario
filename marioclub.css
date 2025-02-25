@@ -49,15 +49,18 @@ nav ul{
     white-space: nowrap;
     max-width: 1200px;
     margin: 0 auto;
+    text-align: center;
 }
 nav li{
     display: inline-block;
     font-size: 25px;
     width: 25%;
+    
 }
 nav li a{
     text-decoration: none;
     color: gray;
+    
 }
 nav li a.join{
     color: #F63232;
